@@ -1,8 +1,7 @@
 # Bash public config
 cd ~
-ln -s ~/.dotfiles/.bash_public .
+ln -s ~/.dotfiles/bashrc.d .bashrc.d
 ln -s ~/.dotfiles/.inputrc .
-
 
 # Sublime config
 cd ~/.config/sublime-text-3/Packages/User/
