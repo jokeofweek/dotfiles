@@ -1,0 +1,15 @@
+[
+	{
+		"keys": ["ctrl+shift+a"], 
+		"command": "bh_key",
+        "args":
+        {
+            "lines" : true,
+            "plugin":
+            {
+                "type": ["__all__"],
+                "command": "bh_modules.bracketselect"
+            }
+        }
+    }    
+]
