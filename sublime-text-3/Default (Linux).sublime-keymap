@@ -1,7 +1,7 @@
 [
-	{
-		"keys": ["ctrl+shift+a"], 
-		"command": "bh_key",
+    {
+        "keys": ["ctrl+shift+a"], 
+        "command": "bh_key",
         "args":
         {
             "lines" : true,
