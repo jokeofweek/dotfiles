@@ -1,0 +1,9 @@
+#!/bin/bash
+if [[ $1 == "off" ]]
+then 
+    sudo apache2ctl stop
+    echo "LAMP stopped."
+else 
+    sudo apache2ctl start
+    echo "LAMP started."
+fi

@@ -8,3 +8,6 @@ cd ~/.config/sublime-text-3/Packages/User/
 ln -s ~/.dotfiles/sublime-text-3/external .
 ln -s ~/.dotfiles/sublime-text-3/Preferences.sublime-settings .
 ln -s ~/.dotfiles/sublime-text-3/Default\ \(Linux\).sublime-keymap .
+
+# Various binaries
+ln -s ~/.dotfiles/bin ~/bin
