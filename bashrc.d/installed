@@ -1,5 +1,5 @@
 # Extra sources which are required for installed apps.
-
+alias node=nodejs
 if [ -f ~/.nvm/nvm.sh ] ; then
 	source ~/.nvm/nvm.sh
 fi
